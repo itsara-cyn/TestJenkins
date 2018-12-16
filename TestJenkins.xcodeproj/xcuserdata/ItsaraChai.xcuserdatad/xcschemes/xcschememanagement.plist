@@ -7,7 +7,25 @@
 		<key>TestJenkins.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8AE1C69521C5EE7F0018641E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8AE1C6A921C5EE810018641E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8AE1C6B421C5EE810018641E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

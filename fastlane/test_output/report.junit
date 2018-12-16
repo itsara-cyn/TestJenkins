@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='TestJenkinsTests.xctest' tests='2' failures='0'>
+  <testsuite name='TestJenkinsTests.TestJenkinsTests' tests='2' failures='0'>
+    <testcase classname='TestJenkinsTests.TestJenkinsTests' name='testFirstTestJenkins' time='0.002'/>
+    <testcase classname='TestJenkinsTests.TestJenkinsTests' name='testPerformanceExample' time='0.296'/>
+  </testsuite>
+</testsuites>
